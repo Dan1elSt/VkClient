@@ -13,7 +13,10 @@
 To use the client you need to get **USER ID** and **TOKEN**. After receiving the data, click **Connect**. The second user must do the same.
 
   ## _How to get a TOKEN_
-  To get a token, click **Get TOKEN** and follow the instructions on the site.
+  To get a token, click **Get TOKEN**.
+  
+  1. Click **Allow**.
+  2. Copy the part of the address bar from **access_token=** to **&expires_in**.
   
   ## _How to get a USER'S ID_
   To get a **USER ID**, go to the page of the user with whom you want to start a dialogue and copy his id from the address bar.
